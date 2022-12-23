@@ -2,9 +2,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=basoalto&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-
-https://github-readme-stats.vercel.app/api?username=basoalto&show_icons=true&theme=synthwave
-
 <!--
 **basoalto/basoalto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
